@@ -1,4 +1,4 @@
-package com.software.design.bridge;
+package com.software.design.bridge.shape;
 
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;

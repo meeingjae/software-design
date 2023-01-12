@@ -1,4 +1,4 @@
-package com.software.design.bridge;
+package com.software.design.bridge.shape;
 
 public abstract class Shape {
 

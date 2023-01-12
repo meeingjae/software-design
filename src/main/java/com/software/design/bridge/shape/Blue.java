@@ -1,4 +1,4 @@
-package com.software.design.bridge;
+package com.software.design.bridge.shape;
 
 public class Blue implements Color {
     @Override

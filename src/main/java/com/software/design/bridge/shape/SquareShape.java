@@ -1,4 +1,4 @@
-package com.software.design.bridge;
+package com.software.design.bridge.shape;
 
 public class SquareShape extends Shape {
     public SquareShape(Color color) {
